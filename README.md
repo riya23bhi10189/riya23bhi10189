@@ -51,7 +51,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=F77200&center=true&vCenter=true&width=800&lines=💻+Languages:+Java,+C++,+C,+Python;🌐+Web+&+App:+HTML,+CSS,+JS,+Flask,+React,+Node.js;☁️+Cloud+&+AI:+AWS,+OpenAI+API,+Prompt+Engineering;🗄️+Databases:+MySQL,+SQLite,+Oracle;🛠️+Tools:+Git,+GitHub,+VS+Code,+Figma" alt="Animated Skills Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1500&color=F77200&center=true&vCenter=true&width=800&lines=💻+Languages:+Java,+C++,+C,+Python;🌐+Web+%26+App:+HTML,+CSS,+JS,+Flask,+React,+Node.js;☁️+Cloud+%26+AI:+AWS,+OpenAI+API,+Prompt+Engineering;🗄️+Databases:+MySQL,+SQLite,+Oracle;🛠️+Tools:+Git,+GitHub,+VS+Code,+Figma" alt="Animated Skills Typing SVG" />
 </div>
 
 ---
