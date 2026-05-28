@@ -1,26 +1,21 @@
 <!-- Cool Dynamic Header Banner -->
-<div align="center" style="position: relative; width: 100%;">
-  <img 
-    src="./image.png"
-    width="250"
-    style="
-      position: absolute;
-      left: 35px;
-      top: 55px;
-      z-index:2;
-    "
-  />
-
-  <!-- Header Banner -->
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=320&section=header&text=Hi%20there,%20I'm%20Riya!%20👋&fontSize=42&animation=twinkling&fontAlignY=38&fontAlign=62&desc=Health%20Informatics%20Enthusiast%20🏥%20|%20AI%20Innovator%20🤖&descAlignY=58&descAlign=65"
-    width="100%"
-  />
-</div>
+<table width="100%" border="0" style="border:none;">
+  <tr style="border:none;">
+    <td width="25%" valign="bottom" align="center" style="border:none; padding:0; margin:0;">
+      <img src="./image.png" width="220" />
+    </td>
+    <td width="75%" valign="middle" style="border:none; padding:0; margin:0;">
+      <img
+        src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=320&section=header&text=Hi%20there,%20I'm%20Riya!%20👋&fontSize=42&animation=twinkling&fontAlignY=45&fontAlign=55&desc=Health%20Informatics%20Enthusiast%20🏥%20|%20AI%20Innovator%20🤖&descAlignY=65&descAlign=55"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
 <!-- Animated Typing Text -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F77200&center=true&vCenter=true&width=700&lines=🚀+Passionate+Computer+Science+Undergraduate;🤖+Solving+real-world+problems+with+AI;💡+Building+innovative+healthcare+apps;✨+Always+learning,+always+growing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F77200&center=true&vCenter=true&width=700&lines=🚀+Passionate+Computer+Science+Undergraduate;🤖+Solving+real-world+problems+with+AI;💡+Building+innovative+healthcare+apps;✨+Always+learning,+always+growing!" alt="Typing SVG" />
 </div>
 
 <br/>
