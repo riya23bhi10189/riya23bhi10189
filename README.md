@@ -1,17 +1,7 @@
 <!-- Cool Dynamic Header Banner -->
-<table width="100%" border="0" style="border:none;">
-  <tr style="border:none;">
-    <td width="25%" valign="bottom" align="center" style="border:none; padding:0; margin:0;">
-      <img src="./image.png" width="220" />
-    </td>
-    <td width="75%" valign="middle" style="border:none; padding:0; margin:0;">
-      <img
-        src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=320&section=header&text=Hi%20there,%20I'm%20Riya!%20👋&fontSize=42&animation=twinkling&fontAlignY=45&fontAlign=55&desc=Health%20Informatics%20Enthusiast%20🏥%20|%20AI%20Innovator%20🤖&descAlignY=65&descAlign=55"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="./banner.png" width="100%" alt="Hi there, I'm Riya!" />
+</div>
 
 <!-- Animated Typing Text -->
 <div align="center">
