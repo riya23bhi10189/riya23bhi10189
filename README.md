@@ -1,28 +1,73 @@
 <!-- ✨ Welcome to Riya's Tech Universe ✨ -->
 
-<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+<svg width="1000" height="320" xmlns="http://www.w3.org/2000/svg" style="display: block; margin: 0 auto;">
   <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <!-- Main gradient background -->
+    <linearGradient id="mainGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#FF1493;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#FF69B4;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#FF69B4;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FF1493;stop-opacity:1" />
     </linearGradient>
+    
+    <!-- Glow effect -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <!-- Shadow filter -->
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-opacity="0.3"/>
+    </filter>
   </defs>
-  <rect width="800" height="200" fill="url(#grad)"/>
-  <text x="400" y="100" font-size="72" font-weight="bold" fill="white" text-anchor="middle" font-family="Arial, sans-serif">💎 RIYA JAIN 💎</text>
-  <text x="400" y="160" font-size="24" fill="white" text-anchor="middle" font-family="Arial, sans-serif">AI & ML Visionary</text>
+  
+  <!-- Main background -->
+  <rect width="1000" height="320" fill="url(#mainGrad)"/>
+  
+  <!-- Decorative circles -->
+  <circle cx="100" cy="80" r="60" fill="rgba(255,255,255,0.1)"/>
+  <circle cx="900" cy="250" r="80" fill="rgba(255,255,255,0.08)"/>
+  <circle cx="500" cy="320" r="100" fill="rgba(255,255,255,0.05)"/>
+  
+  <!-- Top accent line -->
+  <rect x="0" y="0" width="1000" height="4" fill="rgba(255,255,255,0.5)"/>
+  
+  <!-- Main Title with glow -->
+  <text x="500" y="120" font-size="96" font-weight="900" fill="white" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" filter="url(#glow)" style="letter-spacing: 2px;">
+    RIYA JAIN
+  </text>
+  
+  <!-- Diamond accents around title -->
+  <text x="80" y="130" font-size="48" text-anchor="middle">💎</text>
+  <text x="920" y="130" font-size="48" text-anchor="middle">💎</text>
+  
+  <!-- Main tagline -->
+  <text x="500" y="200" font-size="36" fill="white" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold">
+    AI & ML Visionary
+  </text>
+  
+  <!-- Subtitle with icons -->
+  <text x="500" y="250" font-size="20" fill="rgba(255,255,255,0.95)" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">
+    🚀 Healthcare Tech Pioneer • 🔬 AI Innovator • 💡 Problem Solver
+  </text>
+  
+  <!-- Bottom accent line -->
+  <rect x="200" y="280" width="600" height="2" fill="rgba(255,255,255,0.6)"/>
+  
+  <!-- Status badge -->
+  <text x="500" y="310" font-size="16" fill="rgba(255,255,255,0.9)" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="600">
+    🎓 VIT Bhopal • 🌟 B.Tech Health Informatics • 🚀 Building Tomorrow
+  </text>
 </svg>
 
 <br/>
 
 <div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=48&pause=500&color=FF1493&center=true&vCenter=true&width=800&lines=💎+RIYA+JAIN+💎;AI+%26+ML+Visionary;Healthcare+Tech+Pioneer" alt="Riya Jain" />
-  </h1>
-</div>
-
-<div align="center">
-  <h2>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=👋+Welcome+to+My+Corner!;AI+%26+ML+Enthusiast;Tech+Innovator" alt="Welcome" />
+  <h2 style="color: #FF1493; font-size: 28px; margin: 20px 0;">
+    ✨ Welcome to My Tech Universe ✨
   </h2>
   
   <p>
