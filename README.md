@@ -1,8 +1,15 @@
 <!-- ✨ Welcome to Riya's Tech Universe ✨ -->
+
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=👋+Welcome+to+My+Corner!;AI+%26+ML+Enthusiast;Full+Stack+Developer;Health+Tech+Pioneer" alt="Welcome Banner" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=48&pause=500&color=FF1493&center=true&vCenter=true&width=800&lines=💎+RIYA+JAIN+💎;AI+%26+ML+Visionary;Healthcare+Tech+Pioneer" alt="Riya Jain" />
   </h1>
+</div>
+
+<div align="center">
+  <h2>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=👋+Welcome+to+My+Corner!;AI+%26+ML+Enthusiast;Tech+Innovator" alt="Welcome" />
+  </h2>
   
   <p>
     <img src="https://img.shields.io/badge/Status-Building%20Tomorrow's%20Solutions-blueviolet?style=for-the-badge" />
@@ -30,7 +37,7 @@
 </p>
 
 <p align="center">
-  <i>"I am a passionate undergraduate student pursuing a <b>B.Tech in Computer Science with a specialization in Health Informatics</b> at VIT University, Bhopal. I am deeply interested in the inte[...]
+  <i>"I am a passionate undergraduate student pursuing a <b>B.Tech in Computer Science with a specialization in Health Informatics</b> at VIT University, Bhopal. I am deeply interested in the intersection of AI, machine learning, and healthcare technology to create transformative solutions that impact lives positively."</i>
 </p>
 
 ---
@@ -46,7 +53,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1500&color=F77200&center=true&vCenter=true&width=800&lines=💻+Languages:+Java,+C++,+C,+Python;🌐+Web[...]
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1500&color=F77200&center=true&vCenter=true&width=800&lines=💻+Languages:+Java,+C++,+C,+Python;🌐+Web:+React,+Node.js,+Flask;📊+Data:+Pandas,+NumPy,+Scikit-learn;🔧+Tools:+AWS,+Git,+GitHub,+Docker" alt="Tech Stack" />
 </div>
 
 ---
@@ -56,7 +63,7 @@
 <table align="center" width="100%" border="0" style="border:none;">
   <tr style="border:none;">
     <td align="center" width="50%" style="border:none;">
-      <img src="https://quickchart.io/chart?w=350&h=200&bkg=transparent&c={type:'doughnut',data:{labels:['Java','C%2B%2B','Python'],datasets:[{data:[45,30,25],backgroundColor:['%23b07219','%23f34b[...]
+      <img src="https://quickchart.io/chart?w=350&h=200&bkg=transparent&c={type:'doughnut',data:{labels:['Java','C%2B%2B','Python'],datasets:[{data:[45,30,25],backgroundColor:['%23b07219','%23f34b7d','%233776ab']}}}}" alt="Language Distribution" />
     </td>
     <td align="center" width="50%" style="border:none;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=riya23bhi10189&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
@@ -64,7 +71,7 @@
   </tr>
   <tr style="border:none;">
     <td align="center" colspan="2" style="border:none;">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=riya23bhi10189&bg_color=0D1117&color=ff69b4&line=F77200&point=FFFFFF&area=true&hide_border=true&custom_title=GitHub%2[...]
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=riya23bhi10189&bg_color=0D1117&color=ff69b4&line=F77200&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
     </td>
   </tr>
 </table>
@@ -77,7 +84,7 @@
   <tr style="border:none;">
     <td align="left" width="50%" style="border:none; padding: 10px;">
       <blockquote>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="40" align="left" style="margin-right:12px; margin-top:2px;" /[...]
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="40" align="left" style="margin-right:12px; margin-top:2px;" />
         <b>AI Intern</b> <br/>
         <i>Unlox Academy</i> &nbsp;<img src="https://img.shields.io/badge/-May%202026_to_Present-0D1117?style=flat-square" />
         <br/><br/>
@@ -89,7 +96,7 @@
     </td>
     <td align="left" width="50%" style="border:none; padding: 10px;">
       <blockquote>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="40" align="left" style="margin-right:12px; margin[...]
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="40" align="left" style="margin-right:12px; margin-top:2px;" />
         <b>Virtual Intern</b> <br/>
         <i>ServiceNow</i> &nbsp;<img src="https://img.shields.io/badge/-May%202026_to_Present-0D1117?style=flat-square" />
         <br/><br/>
@@ -110,7 +117,7 @@
   <tr style="border:none;">
     <td align="left" width="33%" style="border:none; padding: 10px;">
       <blockquote>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="35" align="left" style="margin-right:10px; margin-top:2[...]
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="35" align="left" style="margin-right:10px; margin-top:2px;" />
         <b>Heart Disease Prediction</b><br/><br/>
         An intelligent AI system predicting heart disease likelihood based on patient health inputs, featuring symptom tracking and multilingual support.<br/><br/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -120,7 +127,7 @@
     </td>
     <td align="left" width="33%" style="border:none; padding: 10px;">
       <blockquote>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/World%20Map.png" width="35" align="left" style="margin-right:10px[...]
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/World%20Map.png" width="35" align="left" style="margin-right:10px; margin-top:2px;" />
         <b>Geospatial Image AI</b><br/><br/>
         Advanced image processing system that segments satellite and aerial imagery to rapidly identify spatial patterns and geographical anomalies.<br/><br/>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
@@ -130,7 +137,7 @@
     </td>
     <td align="left" width="33%" style="border:none; padding: 10px;">
       <blockquote>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Blue%20Book.png" width="35" align="left" style="margin-right:10px; margin-top:2[...]
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Blue%20Book.png" width="35" align="left" style="margin-right:10px; margin-top:2px;" />
         <b>MAA Diary PWA</b><br/><br/>
         A comprehensive Progressive Web App for managing household workers, tracking payments, attendance, and organizing daily memories.<br/><br/>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
