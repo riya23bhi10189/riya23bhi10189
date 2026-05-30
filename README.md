@@ -1,6 +1,6 @@
 <!-- ✨ Welcome to Riya's Tech Universe ✨ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=FF1493,FF69B4,FF69B4&height=250&section=header&text=RIYA%20JAIN&fontSize=80&fontColor=fff&animation=fadeIn&desc=AI%20%26%20ML%20Visionary&descAlign=62&descAlignY=75" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&text=RIYA%20JAIN&fontSize=80&fontColor=ffffff&height=250&section=header&animation=fadeIn&desc=AI%20%26%20ML%20Visionary&descFontSize=30" alt="Header" />
 
 <div align="center">
   <h1>
