@@ -1,6 +1,18 @@
 <!-- ✨ Welcome to Riya's Tech Universe ✨ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&text=RIYA%20JAIN&fontSize=80&fontColor=ffffff&height=250&section=header&animation=fadeIn&desc=AI%20%26%20ML%20Visionary&descFontSize=30" alt="Header" />
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF1493;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FF69B4;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" fill="url(#grad)"/>
+  <text x="400" y="100" font-size="72" font-weight="bold" fill="white" text-anchor="middle" font-family="Arial, sans-serif">💎 RIYA JAIN 💎</text>
+  <text x="400" y="160" font-size="24" fill="white" text-anchor="middle" font-family="Arial, sans-serif">AI & ML Visionary</text>
+</svg>
+
+<br/>
 
 <div align="center">
   <h1>
